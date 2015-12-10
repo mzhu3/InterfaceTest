@@ -5,7 +5,7 @@ public class Sphere extends Circle{
     }
 
     public String toString(){
-	return "Sphere "+getName()+ " that is " + ;
+	return "Sphere "+getName()+ " with a radius of " +getRadius() ;
     }
 }
 
